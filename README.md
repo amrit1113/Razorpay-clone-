@@ -1,3 +1,4 @@
+Live Demo-https://clinquant-douhua-f45196.netlify.app/
 # 💳 Razorpay Landing Page Clone
 
 A visually accurate **clone of Razorpay's official landing page**, built using **HTML** and **Tailwind CSS**. This project focuses on responsive design, utility-first styling, and clean layout structuring to replicate the modern Razorpay interface.
